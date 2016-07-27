@@ -1,0 +1,35 @@
+body {
+  background-color: #EBEBEB;
+  font-family: 'Anton', sans-serif;
+  color: #7D7D7D;
+  font-size: larger;
+  line-height: normal;
+}
+
+h1 {
+  color: #262D6B;
+}
+
+h3 {
+  color: #262D6B;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  line-height: 25px;
+}
+
+table h3 {
+  font-family: 'Open Sans', sans-serif;
+  color: #7D7D7D;
+}
+
+a {
+  font-family: 'Open Sans', sans-serif;
+  color: #7D7D7D;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #262D6B;
+}
