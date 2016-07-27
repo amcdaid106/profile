@@ -1,6 +1,6 @@
 body {
-  background-color: #EBEBEB;
-  font-family: 'Anton', sans-serif;
+  background-color: #D8B685;
+  font-family: 'Fjalla One', sans-serif;
   color: #7D7D7D;
   font-size: larger;
   line-height: normal;
@@ -26,10 +26,65 @@ table h3 {
 
 a {
   font-family: 'Open Sans', sans-serif;
-  color: #7D7D7D;
+  color: #D8B685;
   text-decoration: none;
 }
 
 a:hover {
-  color: #262D6B;
+  color: #AD9064;
+}
+
+.container {
+  width: 700px;
+  margin: 0 auto;
+}
+.centered {
+  text-align: center;
+}
+.card {
+  background-color: #FEFEFE;
+  border-radius: 4px;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  margin: 20px 20px;
+  padding: 15px 15px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.img-250px {
+  width: 250px;
+}
+
+.btn-calico {
+  background: #D8B685;
+  margin: 20px 20px;
+  color: white;
+  font-weight: 500;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.btn-calico:hover {
+  background: #AD9064;
+  color: white;
+
+}
+
+.personal-links i {
+  display: block;
+}
+.thumbs {
+  width: 215px;
+  margin: 10px;
+}
+
+.list-inline {
+  padding-left: 0px;
+}
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
 }
